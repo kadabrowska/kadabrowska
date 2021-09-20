@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadabrowska
-- 👀 I’m interested in python and web design
-- 🌱 I’m currently learning python
+- 👀 I’m interested in making things work and look nice 
+- 🌱 I’m currently learning python, js.
 - 📫 How to reach me ...
 
 <!---
