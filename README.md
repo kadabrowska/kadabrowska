@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadabrowska
 - 👀 I’m interested in making things work and look nice 
-- 🌱 I’m currently learning python, js.
+- 🌱 I’m currently learning python, django.
 - 📫 How to reach me https://dabrowskaka.wixsite.com/my-site-4
 
 <!---
