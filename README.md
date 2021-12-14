@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kadabrowska
-- 👀 I’m interested in making things work and look nice 
-- 🌱 I’m currently learning python, django.
-- 📫 How to reach me https://dabrowskaka.wixsite.com/my-site-4
+- 🌱 I’m currently learning python, django
+- :art: I'm interested in generative arts
+- 📫 ka.an.dabrowska@gmail.com
 
 <!---
 kadabrowska/kadabrowska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
