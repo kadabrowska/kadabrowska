@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kadabrowska
-- 🌱 I’m currently learning python, django
+- 🌱 I’m currently learning python, django and javascript.
 - :art: I'm interested in generative arts
 - 📫 ka.an.dabrowska@gmail.com
 
